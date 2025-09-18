@@ -41,4 +41,4 @@ Adicionar validação para a entrada do usuário, garantindo que ele digite um n
 Criar um menu com mais opções, como extrato ou histórico de transações.<br>
 Implementar classes e objetos para representar o cliente e a conta, tornando o código mais robusto.</p><br>
 
-<h1>Feito com ❤️ por samuel Lazarin</h1>
+<h1>Feito com ❤️ por Samuel Lazarin</h1>
